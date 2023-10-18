@@ -68,3 +68,4 @@ group :test do
 end
 
 gem "view_component-storybook"
+gem "rack-cors", "~> 2.0"
