@@ -8,6 +8,14 @@
           "id": "example_component/hello_world"
         }
       }
+    },
+    {
+      "name": "empty",
+      "parameters": {
+        "server": {
+          "id": "example_component/empty"
+        }
+      }
     }
   ]
 }

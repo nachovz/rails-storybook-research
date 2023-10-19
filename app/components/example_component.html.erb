@@ -1,1 +1,5 @@
-<span title="<%= @title %>"><%= content %></span>
+<% if @title.nil? %>
+	<span>Empty</span>
+<% else %>
+	<span title="<%= @title %>"><%= content %></span>
+<% end %>

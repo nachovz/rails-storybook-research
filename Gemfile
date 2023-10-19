@@ -69,3 +69,5 @@ end
 
 gem "view_component-storybook"
 gem "rack-cors", "~> 2.0"
+
+gem "tailwindcss-rails", "~> 2.0"
